@@ -1,1 +1,1 @@
-# calculator for Jenkins Pipeline.. Flexon
+# Calculator for Jenkins Pipeline.. Flexon
